@@ -1,4 +1,4 @@
-### Olá eu sou o Geraldo, Sou um cara apaixonado por tecnologia e programação! 👋
+### Olá!Seja bem vindo.👋
 
 <div align="center">
   <a href="https://github.com/GeraldoGdias">
